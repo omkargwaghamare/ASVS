@@ -1,2 +1,2 @@
-# My Fierst Development Project
+# My First Development Project
 
