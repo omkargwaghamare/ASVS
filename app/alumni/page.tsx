@@ -19,7 +19,7 @@ const alumniData = [
   { name: "Vishal Waghamare", year: 2019, major: "Computer Science and Engineering", location: "Bangalore", image: "9.JPG" },
   { name: "Prashant Gurunath", year: 2019, major: "ITI Fitter", location: "Chikodi", image: "10.JPG" },
   { name: "Akash Kore", year: 2019, major: "ITI Elecrician", location: "Chikodi", image: "11.JPG" },
-  { name: "Santosh Gurunath", year: 2019, major: "ITI Elecrician", location: "Chikodi", image: "12.JPG" },
+  { name: "Santosh Dhanawade", year: 2019, major: "ITI Elecrician", location: "Chikodi", image: "12.JPG" },
   { name: "Navanath Shirole", year: 2019, major: "Hotel Management", location: "Bangalore", image: "13.JPG" },
   { name: "Dnyneshwar Surayvanshi", year: 2019, major: "Bachelore of Commerce", location: "Pune", image: "14.JPG" },
   { name: "Sourabh Pawar", year: 2019, major: "Elecronics and Communication Engineerng", location: "Bangalore", image: "15.JPG" },
